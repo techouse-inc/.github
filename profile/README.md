@@ -1,6 +1,6 @@
 # Techouse Inc.
 ![Bar counter in Techouse Tokyo office](/images/profile-header.jpeg)
 
-We are hiring! Please see our [company profile for engineers](https://speakerdeck.com/techouse/techouse-companyprofile-eng).
+We are hiring! Please check out our [company profile for engineers](https://speakerdeck.com/techouse/techouse-companyprofile-eng) to learn more.
 
-And also please check our knowledge and insights on our [developers blog](https://developers.techouse.com/).
+Also, visit our [developer blog](https://developers.techouse.com/) to gain knowledge and insights from our team.
